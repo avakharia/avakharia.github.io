@@ -40,14 +40,10 @@
             -ms-flex-align: center;
                 align-items: center;
     }
-
-    h2 {
-        @include fs--body;
-    }
    
     h3 {
         @include fs--body;
-        font-size: 16px;
+        font-size: 17px;
     }
 
     p {
