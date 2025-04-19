@@ -12,19 +12,12 @@ title: Home
   <ul class="c-archives__list">
     {% endif %}
     <li class="c-archives__item">
-      <div style="float: left; width: auto; height: auto;  max-width: 120px; max-height: 120px;">
-        <img src="../assets/{{ post.title | downcase }}.png" alt="{{ post.title }}" />
-      </div>
-      <div style="float: left; text-align: left; width: 65%;">
-        <h3>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-          <br>
-          <small style="color: #3c403e; padding-top: 10px;">{{post.description}}</small>
-        </h3>
-      </div>
-      <div style="float: right; text-align: right; width: 15%; font-size: 14px;">
-        <p>{{ post.date | date: "%b %-d, %Y" }}</p>
-      </div>
+      <h3>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+        <br>
+        <small>{{post.description}}</small>
+      </h3>
+      <p>{{ post.date | date: "%b %-d, %Y" }}</p>
     </li>
     {% if forloop.last %}
   </ul>
