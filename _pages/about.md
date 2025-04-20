@@ -8,4 +8,4 @@ Hi, I'm Atit and I live in the Sports City. I'm a son, a brother, a husband and 
 
 [Here](https://sagical.com/2025/01/Uncharted-Territory.html) is my 1st post on this journey.
 
-***Personal Motto***: In a world full of trends, I want to remain a classic!
+> In a world full of trends, I want to remain a classic!
