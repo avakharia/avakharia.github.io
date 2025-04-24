@@ -21,7 +21,7 @@ lang: en
 timezone: America/Chicago
 
 google_analytics_id: G-LDWGSSKWHE
-disqus_id:
+disqus_id: avbitstipsblog
 
 # Build settings
 include: [_pages]
