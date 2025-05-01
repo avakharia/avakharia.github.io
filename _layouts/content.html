@@ -3,7 +3,17 @@ layout: page
 ---
 <article class="c-article">
   <header class="c-article__header">
-    <h1 class="c-article__title">{{ page.title }}</h1>
+    <h1 class="c-article__title">
+      {% if page.title == 'Home' %}
+        🏠 {{ page.title }}
+      {% endif %}
+      {% if page.title == 'Books' %}
+        📚 {{ page.title }}
+      {% endif %}
+      {% if page.title == 'About' %}
+        🙋🏻‍♂️ {{ page.title }}
+      {% endif %}
+    </h1>
   </header>
   <div class="c-article__main">
     {{ content }}
