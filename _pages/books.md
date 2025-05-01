@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-
+:books:
 <div class="book-year">2025</div>
 
 <table class="books-page">
