@@ -7,16 +7,58 @@ permalink: /books/
 
 ### 2025
 
-| Book | Author | Notes | Recommendation<sup>1</sup> | Link |
-| :----------------------- | :----------------------- | :----------------------- | -----------------------: | -----------------------: |
-| The Decision Book | Mikael Krogerus, Roman Tschäppeler | I'm working on it | Awkward Date | [amazon](https://amzn.to/3EJCl4q) |
-| The Sovereign Child | Aaron Stupple | I'm working on it...  | Soulmate Book (Parents) | [amazon](https://amzn.to/4cHVv7i) |
-| Corporate Chanakya | Radhakrishnan Pillai | Still reading... | Soulmate Book (Managers) | [amazon](https://amzn.to/42QfD3H) |
-| The Beginning of Infinity | David Deutsch | On the shelf | TBD | [amazon](https://amzn.to/42XXXSL) |
-| The Almanack of Naval Ravikant | Eric Jorgenson | On the shelf | TBD | [amazon](https://amzn.to/3EP6Rd8) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left; font-weight: bold;">Book</th>
+      <th>Author</th>
+      <th>Notes</th>
+      <th>Recommendation<sup>1</sup></th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Decision Book</td>
+      <td>Mikael Krogerus, Roman Tschäppeler</td>
+      <td>I'm working on it...</td>
+      <td>Awkward Date</td>
+      <td><a href="https://amzn.to/3EJCl4q" target="_blank">amazon</a></td>
+    </tr>
+    <tr>
+      <td>The Sovereign Child</td>
+      <td>Aaron Stupple</td>
+      <td>I'm working on it...</td>
+      <td>Soulmate Book (Parents)</td>
+      <td><a href="https://amzn.to/4cHVv7i" target="_blank">amazon</a></td>
+    </tr>
+    <tr>
+      <td>Corporate Chanakya</td>
+      <td>Radhakrishnan Pillai</td>
+      <td>Still reading...</td>
+      <td>TBD</td>
+      <td><a href="https://amzn.to/42QfD3H" target="_blank">amazon</a></td>
+    </tr>
+    <tr>
+      <td>The Beginning of Infinity</td>
+      <td>David Deutsch</td>
+      <td>On the shelf</td>
+      <td>TBD</td>
+      <td><a href="https://amzn.to/42XXXSL" target="_blank">amazon</a></td>
+    </tr>
+    <tr>
+      <td>The Almanack of Naval Ravikant</td>
+      <td>Eric Jorgenson</td>
+      <td>On the shelf</td>
+      <td>TBD</td>
+      <td><a href="https://amzn.to/3EP6Rd8" target="_blank">amazon</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 \
-<sup>1</sup>***Recommendation Legend***
+<sup>1</sup> ***Recommendation Legend***
 - Soulmate Book: Heart-eyes, read forever.
 - Solid Pal: Reliable, bring to brunch.
 - Awkward Date: Vibes, but not mind-blowing.
