@@ -22,7 +22,7 @@ permalink: /books/
       <td class="title">The Decision Book</td>
       <td>Mikael Krogerus, Roman Tschäppeler</td>
       <td>I'm working on it...</td>
-      <td>Awkward Date</td>
+      <td>Niche Buddy</td>
       <td><a href="https://amzn.to/3EJCl4q" target="_blank">amazon</a></td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ permalink: /books/
       <td class="title">The Decision Book</td>
       <td>Mikael Krogerus, Roman Tschäppeler</td>
       <td>I'm working on it...</td>
-      <td>Awkward Date</td>
+      <td>Niche Buddy</td>
       <td><a href="https://amzn.to/3EJCl4q" target="_blank">amazon</a></td>
     </tr>
     <tr>
@@ -112,5 +112,5 @@ permalink: /books/
 <sup>1</sup> ***Recommendation Legend***
 - Soulmate: Heart-eyes, read forever.
 - Solid Pal: Reliable, bring to brunch.
-- Awkward Date: Vibes, but not mind-blowing.
+- Niche Buddy: Vibes, but not mind-blowing.
 - Big Snooze: Zzzz, return to shelf.
