@@ -22,4 +22,4 @@ permalink: /books/
 | :--- | :--- | :--- | ----: |
 | The Psychology of Money | Morgan Housel | ... | [amazon](https://amzn.to/42olpth) |
 | Critique of Pure Reason | Immanuel Kant | ... | [amazon](https://amzn.to/4ji7St0) |
-| One Day Smarter | Emily Winter | ... | [amazon](https://amzn.to/3Rts6Uz) |
+| One Day Smarter | Emily Winter | One Day Smarter is a delightful, trivia-packed book filled with quirky and uplifting facts designed to spark joy. The author being a comedian beautifully blends humor with fascinating tidbits. It’s like a "treasure trove of trivia". However, occasionally I found facts to be too random or niche and was wishing for a bit more depth in certain topics. Overall, it’s a charming, light read for trivia buffs and anyone seeking a fun, feel-good knowledge boost. | [amazon](https://amzn.to/3Rts6Uz) |
