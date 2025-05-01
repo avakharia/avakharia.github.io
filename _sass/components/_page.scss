@@ -26,10 +26,16 @@
    margin: 0 auto;
    text-align: left;
 }
-th {
+tr {
    padding: 0 0 15px 0;
 }
-
+th {
+   font-weight: bold;
+}
+td {
+   line-spacing: 1rem;
+}
+   
 .c-page__footer {
     margin-bottom: 10rem;
     display: -webkit-box;
