@@ -7,7 +7,7 @@ permalink: /books/
 
 ### 2025
 
-<table>
+<table class="books-page">
   <thead>
     <tr>
       <th style="text-align: left; font-weight: bold;">Book</th>
