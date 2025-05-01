@@ -27,7 +27,7 @@
    text-align: left;
 }
 tr {
-   padding: 0 0 15px 0;
+   padding: 0 0 15px 10px;
 }
 th {
    font-weight: bold;
@@ -35,6 +35,7 @@ th {
 }
 td {
    line-height: 2;
+   padding-left: 10px;
 }
    
 .c-page__footer {
