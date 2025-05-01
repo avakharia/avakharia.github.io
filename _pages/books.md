@@ -29,7 +29,7 @@ permalink: /books/
       <td>The Sovereign Child</td>
       <td>Aaron Stupple</td>
       <td>I'm working on it...</td>
-      <td>Soulmate Book (Parents)</td>
+      <td>Soulmate (Parents)</td>
       <td><a href="https://amzn.to/4cHVv7i" target="_blank">amazon</a></td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ permalink: /books/
 
 \
 <sup>1</sup> ***Recommendation Legend***
-- Soulmate Book: Heart-eyes, read forever.
+- Soulmate: Heart-eyes, read forever.
 - Solid Pal: Reliable, bring to brunch.
 - Awkward Date: Vibes, but not mind-blowing.
 - Big Snooze: Zzzz, return to shelf.
