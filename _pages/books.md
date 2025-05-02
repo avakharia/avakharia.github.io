@@ -10,11 +10,11 @@ permalink: /books/
 <table class="books-page">
   <thead>
     <tr>
-      <th style="text-align: left; font-weight: bold;">Title</th>
-      <th>Recommendation<sup>1</sup></th>
-      <th>Author</th>
-      <th>Notes</th>
-      <th>Link</th>
+      <th class="col1" style="text-align: left; font-weight: bold;">Title</th>
+      <th class="col2">Recommendation<sup>1</sup></th>
+      <th class="col3">Author</th>
+      <th class="col4">Notes</th>
+      <th class="col5">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -62,11 +62,11 @@ permalink: /books/
 <table class="books-page">
   <thead>
     <tr>
-      <th style="text-align: left; font-weight: bold;">Title</th>
-      <th>Recommendation<sup>1</sup></th>
-      <th>Author</th>
-      <th>Notes</th>
-      <th>Link</th>
+      <th class="col1" style="text-align: left; font-weight: bold;">Title</th>
+      <th class="col2">Recommendation<sup>1</sup></th>
+      <th class="col3">Author</th>
+      <th class="col4">Notes</th>
+      <th class="col5">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -114,11 +114,11 @@ permalink: /books/
 <table class="books-page">
   <thead>
     <tr>
-      <th style="text-align: left; font-weight: bold;">Title</th>
-      <th>Recommendation<sup>1</sup></th>
-      <th>Author</th>
-      <th>Notes</th>
-      <th>Link</th>
+      <th class="col1" style="text-align: left; font-weight: bold;">Title</th>
+      <th class="col2">Recommendation<sup>1</sup></th>
+      <th class="col3">Author</th>
+      <th class="col4">Notes</th>
+      <th class="col5">Link</th>
     </tr>
   </thead>
   <tbody>
