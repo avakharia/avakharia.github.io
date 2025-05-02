@@ -28,14 +28,6 @@
    font-weight: bold;
    font-family: cursive;
 }
-.book-year-old {
-   border: 2px solid gray;
-   padding: 7px;
-   border-radius: 30px 10px;
-   font-size: 2.2rem;
-   font-weight: bold;
-   font-family: cursive;
-}
 
 .books-page {
    width: 100% !important;
@@ -52,7 +44,7 @@ table tr th:nth-child(5) {
 }
 td {
    line-height: 2;
-   padding: 0 0 15px 20px;
+   padding: 0 0 15px 10px;
 }
 .col1 {
    max-width: 20%;
