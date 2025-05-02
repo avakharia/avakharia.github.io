@@ -14,7 +14,7 @@ permalink: /books/
       <th class="col2">Recommendation<sup>1</sup></th>
       <th class="col3">Author</th>
       <th class="col4">Notes</th>
-      <th class="col5">Purchase</th>
+      <th class="col5">Invest</th>
     </tr>
   </thead>
   <tbody>
@@ -23,35 +23,35 @@ permalink: /books/
       <td class="col2">Niche Buddy</td>
       <td class="col3">Mikael Krogerus, Roman Tschäppeler</td>
       <td class="col4">I'm working on it...</td>
-      <td class="col5"><a href="https://amzn.to/3EJCl4q" target="_blank">amazon</a></td>
+      <td class="col5"><a href="https://amzn.to/3EJCl4q" target="_blank">🔗</a></td>
     </tr>
     <tr>
       <td class="col1">The Sovereign Child</td>
       <td class="col2">Soulmate (Parents)</td>
       <td class="col3">Aaron Stupple</td>
       <td class="col4">I'm working on it...</td>
-      <td class="col5"><a href="https://amzn.to/4cHVv7i" target="_blank">amazon</a></td>
+      <td class="col5"><a href="https://amzn.to/4cHVv7i" target="_blank">🔗</a></td>
     </tr>
     <tr>
       <td class="col1">Corporate Chanakya</td>
       <td class="col2">TBD</td>
       <td class="col3">Radhakrishnan Pillai</td>
       <td class="col4">Still reading...</td>
-      <td class="col5"><a href="https://amzn.to/42QfD3H" target="_blank">amazon</a></td>
+      <td class="col5"><a href="https://amzn.to/42QfD3H" target="_blank">🔗</a></td>
     </tr>
     <tr>
       <td class="col1">The Beginning of Infinity</td>
       <td class="col2">TBD</td>
       <td class="col3">David Deutsch</td>
       <td class="col4">On the shelf</td>
-      <td class="col5"><a href="https://amzn.to/42XXXSL" target="_blank">amazon</a></td>
+      <td class="col5"><a href="https://amzn.to/42XXXSL" target="_blank">🔗</a></td>
     </tr>
     <tr>
       <td class="col1">The Almanack of Naval Ravikant</td>
       <td class="col2">TBD</td>
       <td class="col3">Eric Jorgenson</td>
       <td class="col4">On the shelf</td>
-      <td class="col5"><a href="https://amzn.to/3EP6Rd8" target="_blank">amazon</a></td>
+      <td class="col5"><a href="https://amzn.to/3EP6Rd8" target="_blank">🔗</a></td>
     </tr>
   </tbody>
 </table>
@@ -66,7 +66,7 @@ permalink: /books/
       <th class="col2">Recommendation<sup>1</sup></th>
       <th class="col3">Author</th>
       <th class="col4">Notes</th>
-      <th class="col5">Purchase</th>
+      <th class="col5">Invest</th>
     </tr>
   </thead>
   <tbody>
@@ -118,7 +118,7 @@ permalink: /books/
       <th class="col2">Recommendation<sup>1</sup></th>
       <th class="col3">Author</th>
       <th class="col4">Notes</th>
-      <th class="col5">Purchase</th>
+      <th class="col5">Invest</th>
     </tr>
   </thead>
   <tbody>
