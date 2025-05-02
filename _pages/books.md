@@ -137,7 +137,7 @@ permalink: /books/
       <td><a href="https://amzn.to/3Rts6Uz" target="_blank">amazon</a></td>
     </tr>
     <tr>
-      <td class="title">Against the Gods: The Remarkable Story of Risk</td>
+      <td class="title">Against the Gods: <br/>The Remarkable Story of Risk</td>
       <td>Big Snooze</td>
       <td>Peter L. Bernstein</td>
       <td>No notes</td>
