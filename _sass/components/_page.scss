@@ -51,8 +51,21 @@ td {
    line-height: 2;
    padding: 0 0 15px 10px;
 }
-table tr td:nth-child(1, 2, 3, 5) {
+table tr td:nth-child(1) {
    white-space: nowrap;
+   vertical-align: top;
+}
+table tr td:nth-child(2) {
+   white-space: nowrap;
+   vertical-align: top;
+}
+table tr td:nth-child(3) {
+   white-space: nowrap;
+   vertical-align: top;
+}
+table tr td:nth-child(5) {
+   white-space: nowrap;
+   vertical-align: top;
 }
    
 .c-page__footer {
