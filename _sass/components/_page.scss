@@ -47,29 +47,30 @@ th {
    font-size: 16px;
    padding: 0 0 20px 10px;
 }
+table tr th:nth-child(5) {
+   text-align: right;
+}
 td {
    line-height: 2;
    padding: 0 0 15px 10px;
 }
-table tr td:nth-child(1) {
-   white-space: nowrap;
+.col1 {
+   max-width: 20%;
    vertical-align: top;
 }
-table tr td:nth-child(2) {
-   white-space: nowrap;
+.col2, .col3 {
+   max-width: 15%;
    vertical-align: top;
 }
-table tr td:nth-child(3) {
-   white-space: nowrap;
-   vertical-align: top;
-}
-table tr td:nth-child(5) {
-   white-space: nowrap;
-   vertical-align: top;
-}
-table tr td:nth-child(4) {
+.col4 {
+   max-width: 40%;
    padding-left: 7px;
    vertical-align: top;
+}
+.col5 {
+   vertical-align: top;
+   max-width: 10%;
+   text-align: right;
 }
    
 .c-page__footer {
