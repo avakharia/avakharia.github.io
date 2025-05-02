@@ -10,7 +10,7 @@ permalink: /books/
 <table class="books-page">
   <thead>
     <tr>
-      <th style="text-align: left; font-weight: bold;">Book</th>
+      <th style="text-align: left; font-weight: bold;">Title</th>
       <th>Author</th>
       <th>Notes</th>
       <th>Recommendation<sup>1</sup></th>
