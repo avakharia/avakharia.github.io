@@ -14,7 +14,7 @@ permalink: /books/
       <th class="col2">Recommendation<sup>1</sup></th>
       <th class="col3">Author</th>
       <th class="col4">Notes</th>
-      <th class="col5">Link</th>
+      <th class="col5">Purchase</th>
     </tr>
   </thead>
   <tbody>
@@ -66,7 +66,7 @@ permalink: /books/
       <th class="col2">Recommendation<sup>1</sup></th>
       <th class="col3">Author</th>
       <th class="col4">Notes</th>
-      <th class="col5">Link</th>
+      <th class="col5">Purchase</th>
     </tr>
   </thead>
   <tbody>
@@ -118,7 +118,7 @@ permalink: /books/
       <th class="col2">Recommendation<sup>1</sup></th>
       <th class="col3">Author</th>
       <th class="col4">Notes</th>
-      <th class="col5">Link</th>
+      <th class="col5">Purchase</th>
     </tr>
   </thead>
   <tbody>
