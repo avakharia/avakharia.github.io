@@ -28,7 +28,9 @@ permalink: /books/
       <td class="col5"><a href="https://amzn.to/3EJCl4q" target="_blank">Buy</a></td>
     </tr>
     <tr>
-      <td class="col1">The Sovereign Child</td>
+      <td class="col1">The Sovereign Child<br/>
+        <img src="https://a.media-amazon.com/images/I/61reAmfdoML._SY466_.jpg" width="218" height="373" alt="The Sovereign Child" title="The Sovereign Child" />
+      </td>
       <td class="col2">Soulmate (Parents)</td>
       <td class="col3">Aaron Stupple</td>
       <td class="col4">I'm working on it...</td>
