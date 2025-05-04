@@ -20,7 +20,7 @@ permalink: /books/
   <tbody>
     <tr>
       <td class="col1">The Decision Book<br/>
-        <img src="https://a.media-amazon.com/images/I/51oGGORA-wL._SL1200_.jpg" alt="The Decision Book" title="The Decision Book" />
+        <img src="https://a.media-amazon.com/images/I/51oGGORA-wL._SL1200_.jpg" width="218" height="373" alt="The Decision Book" title="The Decision Book" />
       </td>
       <td class="col2">Niche Buddy</td>
       <td class="col3">Mikael Krogerus, Roman Tschäppeler</td>
