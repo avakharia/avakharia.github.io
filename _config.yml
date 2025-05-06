@@ -33,3 +33,4 @@ sass:
 
 exclude: [vendor]
 
+show_excerpts: true
