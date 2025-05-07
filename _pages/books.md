@@ -5,9 +5,8 @@ permalink: /books/
 ---
 
 <img src="{{ site.baseurl }}/assets/books.png" alt="Books" title="Books" />
-<br/><br/>
+<p><br/></p>
 <div class="book-year">〔 This Year 〕</div>
-
 <table class="books-page">
   <thead>
     <tr>
@@ -70,7 +69,6 @@ permalink: /books/
 </table>
 <br/>
 <hr class="style-seven" />
-<br/>
 <div class="book-year-past">〔 Past Years 〕</div>
 
 <table class="books-page">
