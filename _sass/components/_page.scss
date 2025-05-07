@@ -45,18 +45,19 @@ table tr th:nth-child(4) {
 td {
    line-height: 2;
    padding: 0 0 30px 10px;
-}
-.col1, .col2 {
-   max-width: 20%;
    vertical-align: top;
+}
+.col1 {
+   width: 25%;
+}
+.col2 {
+   width: 10%;
 }
 .col3 {
-   max-width: 40%;
+   width: 55%;
    padding-left: 7px;
-   vertical-align: top;
 }
 .col4 {
-   vertical-align: top;
    max-width: 10%;
    text-align: right;
 }
