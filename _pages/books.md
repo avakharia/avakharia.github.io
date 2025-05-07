@@ -18,7 +18,7 @@ permalink: /books/
   </thead>
   <tbody>
     <tr>
-      <td class="col1">The Decision Book<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/51oGGORA-wL._SL1200_.jpg" width="218" height="373" alt="The Decision Book" title="The Decision Book" />
       </td>
       <td class="col2">Kinda, Sorta</td>
@@ -26,7 +26,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/3EJCl4q" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">The Sovereign Child<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/61reAmfdoML._SY466_.jpg" width="218" height="373" alt="The Sovereign Child" title="The Sovereign Child" />
       </td>
       <td class="col2">Highly (Parents)</td>
@@ -34,7 +34,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/4cHVv7i" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">Unreasonable Hospitality<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/71hQ0JFkAXL._SL1500_.jpg" width="218" height="373" alt="Unreasonable Hospitality" title="Unreasonable Hospitality" />
       </td>
       <td class="col2">Highly (Parents)</td>
@@ -43,7 +43,6 @@ permalink: /books/
     </tr>
     <tr>
       <td class="col1">
-        Corporate Chanakya<br/>
         <img src="https://a.media-amazon.com/images/I/41wd4A+otsL._SY445_SX342_.jpg" width="218" height="373" alt="Corporate Chanakya" title="Corporate Chanakya" />
       </td>
       <td class="col2">TBD</td>
@@ -52,7 +51,6 @@ permalink: /books/
     </tr>
     <tr>
       <td class="col1">
-        The Beginning of Infinity<br/>
         <img src="https://a.media-amazon.com/images/I/716R8HCtH+L._SL1500_.jpg" width="218" height="373" alt="The Beginning of Infinity" title="The Beginning of Infinity" />
       </td>
       <td class="col2">TBD</td>
@@ -60,7 +58,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/42XXXSL" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">The Almanack of Naval Ravikant<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/51VFkbM2siL._SL1500_.jpg" width="218" height="373" alt="The Almanack of Naval Ravikant" title="The Almanack of Naval Ravikant" />
       </td>
       <td class="col2">TBD</td>
@@ -84,7 +82,7 @@ permalink: /books/
   </thead>
   <tbody>
     <tr>
-      <td class="col1">The Psychology of Money<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/81wZXiu4OiL._SL1500_.jpg" width="218" height="373" alt="The Psychology of Money" title="The Psychology of Money" />
       </td>
       <td class="col2">Highly!!!</td>
@@ -92,7 +90,7 @@ permalink: /books/
       <td><a href="https://amzn.to/42olpth" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">A Calendar of Wisdom<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/41a-NfMQdEL._SY445_SX342_PQ95_.jpg" width="218" height="373" alt="A Calendar of Wisdom" title="A Calendar of Wisdom" />
       </td>
       <td class="col2">For Sure</td>
@@ -100,7 +98,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/3Eiy0Ff" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">Thinking, Fast and Slow<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/61ZQRfblKrL._SL1500_.jpg" width="218" height="373" alt="Thinking, Fast and Slow" title="Thinking, Fast and Slow" />
       </td>
       <td class="col2">Highly</td>
@@ -108,7 +106,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/4iwppN3" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">Bad Therapy<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/8170T3Vb9HL._SL1500_.jpg" width="218" height="373" alt="Bad Therapy" title="Bad Therapy" />
       </td>
       <td class="col2">Highly (Parents)</td>
@@ -116,7 +114,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/4m3BSef" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">The Federal Reserve<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/21EO+pTU5ML._SY445_SX342_PQ95_.jpg" width="218" height="373" alt="The Federal Reserve" title="The Federal Reserve" />
       </td>
       <td class="col2">No</td>
@@ -124,7 +122,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/4jza7s2" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">Critique of Pure Reason<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/41OXK2Rr51L._SY445_SX342_PQ95_.jpg" width="218" height="373" alt="Critique of Pure Reason" title="Critique of Pure Reason" />
       </td>
       <td class="col2">Sort of (be prepared to use dictionary)</td>
@@ -132,7 +130,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/4ji7St0" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">One Day Smarter<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/91tI6m5wl9L._SL1500_.jpg" width="218" height="373" alt="One Day Smarter" title="One Day Smarter" />
       </td>
       <td class="col2">Eh</td>
@@ -140,7 +138,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/3Rts6Uz" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">Against the Gods: <br/>The Remarkable Story of Risk<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/A1NfKgcX9ES._SL1500_.jpg" width="218" height="373" alt="Against the Gods" title="Against the Gods" />
       </td>
       <td class="col2">No</td>
@@ -148,7 +146,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/4jxCO8P" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">The Courage To Be Disliked<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/61-8j1rtdOL._SL1500_.jpg" width="218" height="373" alt="The Courage To Be Disliked" title="The Courage To Be Disliked" />
       </td>
       <td class="col2">Kinda, Sorta</td>
@@ -156,7 +154,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/4d5EGDe" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">Wanderers, Kings, Merchants<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/810UTaY4wFS._SY522_.jpg" width="218" height="373" alt="Wanderers, Kings, Merchants" title="Wanderers, Kings, Merchants" />
       </td>
       <td class="col2">Kinda, Sorta</td>
@@ -164,7 +162,7 @@ permalink: /books/
       <td class="col4"><a href="https://amzn.to/434xa70" target="_blank">Get it</a></td>
     </tr>
     <tr>
-      <td class="col1">Why Greatness Cannot Be Planned<br/>
+      <td class="col1">
         <img src="https://a.media-amazon.com/images/I/41cIrt+-4EL._SY445_SX342_PQ95_.jpg" width="218" height="373" alt="Why Greatness Cannot Be Planned" title="Why Greatness Cannot Be Planned" />
       </td>
       <td class="col2">Yes</td>
