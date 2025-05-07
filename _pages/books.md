@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 
-<div class="book-year">〔 2025 〕</div>
+<div class="book-year">〔 This Year 〕</div>
 
 <table class="books-page">
   <thead>
@@ -69,7 +69,7 @@ permalink: /books/
 </table>
 
 
-<div class="book-year">〔 2024 〕</div>
+<div class="book-year">〔 Past Years 〕</div>
 
 <table class="books-page">
   <thead>
