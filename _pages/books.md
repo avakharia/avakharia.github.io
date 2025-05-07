@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 <br/>
-<img src="{{ site.baseurl }}/assets/books.jpg" alt="Books" title="Books" />
+<img src="{{ site.baseurl }}/assets/books.png" alt="Books" title="Books" />
 <br/>
 <div class="book-year">〔 This Year 〕</div>
 
