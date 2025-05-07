@@ -68,8 +68,9 @@ permalink: /books/
     </tr>
   </tbody>
 </table>
-
-
+<br/>
+<hr class="style-seven"></hr>
+<br/>
 <div class="book-year-past">〔 Past Years 〕</div>
 
 <table class="books-page">
