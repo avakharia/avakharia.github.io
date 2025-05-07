@@ -125,7 +125,7 @@ permalink: /books/
       <td class="col1">
         <img src="https://a.media-amazon.com/images/I/41OXK2Rr51L._SY445_SX342_PQ95_.jpg" width="218" height="373" alt="Critique of Pure Reason" title="Critique of Pure Reason" />
       </td>
-      <td class="col2">Sort of (be prepared to use dictionary)</td>
+      <td class="col2">Yes</td>
       <td class="col3">Critique of Pure Reason published in 1781 is a total mind-bender, but in a fascinating way. Basically, the author Immanuel Kant is trying to figure out what we can truly know and how our minds shape our experience of the world. I often got hooked by his revolutionary idea that our understanding isn't just passively receiving information; instead, our brains actively organize and structure everything we perceive. It's like our minds come with built-in filters and categories… I’m sure you have heard this somewhere! The terminology and complex arguments Kant uses were pretty tough to digest, and the sheer length of the book was daunting. I couldn’t read it cover to cover but I’m confident the payoff will be a profound new perspective on knowledge, reality, and the limits of human reason which I why I highly recommend this book!</td>
       <td class="col4"><a href="https://amzn.to/4ji7St0" target="_blank">Get it</a></td>
     </tr>
