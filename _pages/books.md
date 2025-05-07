@@ -13,7 +13,7 @@ permalink: /books/
       <th class="col1" style="text-align: left; font-weight: bold;">Title</th>
       <th class="col2">Recommend</th>
       <th class="col3">Notes</th>
-      <th class="col4">Purchase</th>
+      <th class="col4">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -77,7 +77,7 @@ permalink: /books/
       <th class="col1" style="text-align: left; font-weight: bold;">Title</th>
       <th class="col2">Recommend</th>
       <th class="col3">Notes</th>
-      <th class="col4">Purchase</th>
+      <th class="col4">Link</th>
     </tr>
   </thead>
   <tbody>
