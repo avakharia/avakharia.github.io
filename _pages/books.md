@@ -69,7 +69,7 @@ permalink: /books/
 </table>
 
 
-<div class="book-year">〔 Past Years 〕</div>
+<div class="book-year-past">〔 Past Years 〕</div>
 
 <table class="books-page">
   <thead>
